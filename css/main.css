@@ -334,14 +334,6 @@ body::-webkit-scrollbar {
   justify-content: end;
 }
 
-.text-ld {
-  display: block;
-}
-
-.text-md {
-  display: none;
-}
-
 .btn-wrapper.for-ld {
   display: flex;
 }
@@ -413,19 +405,11 @@ body::-webkit-scrollbar {
     display: flex;
   }
 
-  .btn-wrapper.for-ld {
-    display: none;
-  }
-
   .footer-banner {
     background-color: var(--text_color);
     box-shadow: none;
     background-image: none;
     border: none;
-  }
-
-  .btn-wrapper.for-sd {
-    display: flex;
   }
 
   .mockup-right {
@@ -446,14 +430,6 @@ body::-webkit-scrollbar {
 
   .hero-wrapper {
     height: 32.6875rem;
-  }
-
-  .text-ld {
-    display: none;
-  }
-
-  .text-md {
-    display: block;
   }
 
   .mockup-right img {
